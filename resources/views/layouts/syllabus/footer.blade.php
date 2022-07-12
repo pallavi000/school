@@ -1,0 +1,1 @@
+<div class="footer">© 2022 Robert Kennedy College Zürich GmbH.   All rights reserved.   General terms and conditions.</div>
